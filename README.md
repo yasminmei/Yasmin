@@ -31,4 +31,5 @@
  <a href="https://www.facebook.com/yasmin.monique.39" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "https://account.microsoft.com/?lang=pt-br&refd=account.microsoft.com&refp=signedout-index"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@yasminliul" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+
  </div>
